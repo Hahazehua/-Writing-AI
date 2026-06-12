@@ -1,0 +1,4 @@
+interface:
+  display_name: "Writing AI"
+  short_description: "Learn your style from Word files and draft matching prose"
+  default_prompt: "Read all Word documents in the source folder, learn my writing style, and write an original article that follows my requirements without double quotation marks or dash punctuation."
